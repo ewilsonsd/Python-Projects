@@ -1,3 +1,3 @@
-# data-exploration
+# Python-Projects
 
-This repository is meant to hold various data analysis projects I have done. 
+This repository includes various Python projects I have completed for Kaggle contests, challenges, and general curiousity. 
